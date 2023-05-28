@@ -1,0 +1,24 @@
+{
+  "name": "messenger.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nurs2005/messenger.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nurs2005/messenger.js/issues"
+  },
+  "homepage": "https://github.com/Nurs2005/messenger.js#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
